@@ -1,0 +1,13 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+#process {
+  width: 0vw;
+  height: 10px;
+  background-color: green;
+}
+#success {
+  color: green;
+  display: none;
+}
